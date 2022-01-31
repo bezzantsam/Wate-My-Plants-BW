@@ -1,4 +1,4 @@
-# Water-My-Plants-BW
+# Water-My-Plants-BW-Front-End
 
 
 ## ☝️ **Pitch**
